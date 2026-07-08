@@ -13,6 +13,6 @@ What should be done in terms of live coding session:
 Design and item placement is up to candidate
 4. At least one unit test should be done. testWeAreShowingCarsInView. The test which ensures us app is showing proper data on the screen.
 
-Despite the assumption that design is up to the candidate, screens should be production ready (Loading state should be added together with error handling).
+Despite the assumption that design is up to the candidate, nice to have screens which are production ready (Loading state should be added together with error handling).
 
 You can use either UIKit or SwiftUI version by changing it via isSwiftUI flag in AppDelegate
