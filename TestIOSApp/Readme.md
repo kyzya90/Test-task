@@ -16,9 +16,3 @@ Design and item placement is up to candidate
 Despite the assumption that design is up to the candidate, screens should be production ready (Loading state should be added together with error handling).
 
 You can use either UIKit or SwiftUI version by changing it via isSwiftUI flag in AppDelegate
-
-What is not preferrable to use:
-
-* AI support (asking questions and requests to implement a functionality by AI Agent)
-* Code from previouls projects
-* 3rd party libraries
